@@ -1,0 +1,58 @@
+/* Sage Awning tokens, copied from the design system's tokens.json. Light only, on purpose. */
+:root {
+  --surface-page: #f7f4e4;
+  --surface-card: #fdfbef;
+  --surface-raised: #efeedb;
+  --surface-band: #1e4f4a;
+  --stripe-a: #e1e7c3;
+  --stripe-b: #eaefd7;
+  --ink: #1e4f4a;
+  --ink-accent: #2e6e68;
+  --ink-soft: #4c645e;
+  --ink-muted: #5d6b56;
+  --ink-muted-light: #6e7d66;
+  --on-dark: #f7f4e4;
+  --on-dark-muted: #a8c4b8;
+  --hairline: #d8dcc4;
+  --series-a: #2a4a80;
+  --series-a-mark: #5b7fb8;
+  --series-a-fill: #3f6fc9;
+  --series-a-tint: #dee6f4;
+  --series-b: #2e5f37;
+  --series-b-mark: #3f7a4a;
+  --series-b-fill: #2e7d3c;
+  --series-b-tint: #dce8d7;
+  --accent: #7a6410;
+  --accent-mark: #c9a227;
+  --accent-tint: #f6ebc8;
+  --highlight: #efe2b4;
+  --alert: #a3442c;
+  --shadow-ink: #1e4f4a;
+  --shadow-ink-deep: #143734;
+
+  --font-display: "Fraunces", Georgia, "Times New Roman", serif;
+  --font-text: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-figure: "Nunito", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --space-1: 4px;
+  --space-2: 7px;
+  --space-3: 11px;
+  --space-4: 14px;
+  --space-5: 18px;
+  --space-6: 26px;
+  --space-7: 44px;
+
+  --radius-sm: 5px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-pill: 999px;
+
+  --border-structural: 2px;
+  --border-detail: 1.5px;
+
+  --shadow-hard: 3px 3px 0 #1e4f4a;
+  --shadow-hard-deep: 3px 3px 0 #143734;
+  --shadow-press: 1px 1px 0 #1e4f4a;
+
+  color-scheme: light;
+}
